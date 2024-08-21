@@ -1,11 +1,11 @@
 # Worldwide High-fidelity Road Extraction from Aerial and Satellite Imagery enabled by Low-fidelity OpenStreetMap Labels
-Official repository for the supplementary materials of the GCPR24 conference paper "Worldwide High-fidelity Road Extraction from Aerial and Satellite Imagery enabled by Low-fidelity OpenStreetMap Labels"
+Official repository for the supplementary materials of the GCPR24 conference paper *"Worldwide High-fidelity Road Extraction from Aerial and Satellite Imagery enabled by Low-fidelity OpenStreetMap Labels"*
 
-GCPR24 proceedings:
+**GCPR24 proceedings:**
 - paper: TBD
 - supplementary materials: TBD
 
-arXiv pre-print:
+**arXiv pre-print:**
 - paper: TBD
 - supplementary materials: TBD
 
