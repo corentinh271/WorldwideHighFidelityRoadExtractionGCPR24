@@ -12,3 +12,11 @@ Official repository for the supplementary materials of the GCPR24 conference pap
 ## Custom dataset splits
 
 Due to the lack of public test or validation sets for some of the datasets we used in our experiement, we split the data ourselves into custom training, validation and test sets (cf. Section 3 in the paper). The images belonging to each set are given in `datasets_splits.json` for each dataset as an image ID. The image prefixes and suffixes may slightly differ from the original images due to modifications made for clarity on our end, but the unique IDs themselves remained as is.
+
+## Citation
+
+If you use our research in your own study, please consider citing our paper:
+
+```BibTeX
+TBD
+```
