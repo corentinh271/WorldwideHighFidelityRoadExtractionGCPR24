@@ -1,13 +1,10 @@
 # :earth_africa: :artificial_satellite: :motorway: Worldwide High-fidelity Road Extraction from Aerial and Satellite Imagery enabled by Low-fidelity OpenStreetMap Labels
-Official repository for the supplementary materials of the GCPR24 conference paper *"Worldwide High-fidelity Road Extraction from Aerial and Satellite Imagery enabled by Low-fidelity OpenStreetMap Labels"*.
+Official repository for the GCPR24 conference paper *"Worldwide High-fidelity Road Extraction from Aerial and Satellite Imagery enabled by Low-fidelity OpenStreetMap Labels"*.
 
 **GCPR24 proceedings:**
 - paper: TBD
 - supplementary materials: TBD
-
-**arXiv pre-print:**
-- paper: TBD
-- supplementary materials: TBD
+- poster: [Link](https://github.com/corentinh271/WorldwideHighFidelityRoadExtractionGCPR24/blob/main/henry_et_al_gcpr_2024_worldwide_hifi_road_extraction_aerial_satellite_imagery_poster.pdf)
 
 ## Custom dataset splits
 
