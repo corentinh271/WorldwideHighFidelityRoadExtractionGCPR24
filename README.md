@@ -2,7 +2,7 @@
 Official repository for the GCPR24 conference paper *"Worldwide High-fidelity Road Extraction from Aerial and Satellite Imagery enabled by Low-fidelity OpenStreetMap Labels"*.
 
 **GCPR24 proceedings:**
-- Paper: [LInk](https://link.springer.com/chapter/10.1007/978-3-031-85187-2_19)
+- Paper: [Link](https://link.springer.com/chapter/10.1007/978-3-031-85187-2_19)
 - Supplementary materials: [Link](https://static-content.springer.com/esm/chp%3A10.1007%2F978-3-031-85187-2_19/MediaObjects/626037_1_En_19_MOESM1_ESM.pdf)
 - Poster: [Link](https://github.com/corentinh271/WorldwideHighFidelityRoadExtractionGCPR24/blob/main/henry_et_al_gcpr_2024_worldwide_hifi_road_extraction_aerial_satellite_imagery_poster.pdf)
 
